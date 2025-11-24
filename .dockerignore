@@ -1,0 +1,12 @@
+.git
+.gitignore
+.mvn
+mvnw
+mvnw.cmd
+.idea
+.vscode
+*.iml
+target/classes
+target/test-classes
+README.md
+docker-compose.yml
